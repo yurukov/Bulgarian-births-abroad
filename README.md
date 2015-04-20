@@ -1,5 +1,11 @@
 # Bulgarian births abroad
-Скриптове и данни за създаване на карта на рабжданията в чужбина
+Скриптове и данни за създаване на карта на рабжданията в чужбина.
+
+Описание на картата и изготвянето ѝ ще намерите в блога ми:
+http://yurukov.net/blog/2015/04/20/balgarcheta-rodeni-v-chujbina/
+
+Самата карта ще намерите в CartoDB:
+https://yurukov.cartodb.com/viz/d128c2dc-e62b-11e4-9ed5-0e853d047bba/public_map
 
 ### Входни данни
 * borders.json - geojson с границите на почти всички държави
